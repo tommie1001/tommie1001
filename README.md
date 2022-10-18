@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Thomas Wijnands | Software developer from the 🇳🇱👋
+[![@tommie1001's Holopin board](https://holopin.me/tommie1001)](https://holopin.io/@tommie1001)
 
 <!--
 **tommie1001/tommie1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
